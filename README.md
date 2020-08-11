@@ -1,4 +1,4 @@
-## Collection of Topic wise best Questions with solution in Python from all over web
+## Collection of Topic wise best Practice Questions with solution in Python from all over web
 
 Tech interviews can be intimidating. They often have several phases, from the first technical phone screen, to a remote coding interview or assignment, to the final on-site interview and whiteboard challenge.
 
