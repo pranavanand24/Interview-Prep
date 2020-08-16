@@ -1,6 +1,6 @@
 ## 1.Collection of Topic Wise Best Coding Questions With solution in Python from all Over Web.
 
-## 2.Theoritical Topics also Covered such as OOPS, CN, DBMS, OS, System Design etc.
+## 2.Theoritical Topics also Covered such as OOPS, CN, DBMS,and OS etc.
 
 Tech interviews can be intimidating. They often have several phases, from the first technical phone screen, to a remote coding interview or assignment, to the final on-site interview and whiteboard challenge.
 
