@@ -1,4 +1,4 @@
-## 1.collection of topic Wise best coding questions With solution in python from all over Web.
+## 1.One Stop Solution for Coding Interview Preparation in Python
 
 Tech interviews can be intimidating. They often have several phases, from the first technical phone screen, to a remote coding interview or assignment, to the final on-site interview and whiteboard challenge.
 
