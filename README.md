@@ -14,4 +14,4 @@ These interview questions are real; they are not pulled out of computer science 
 ### Cracking the Soft Skill
 ![](Readme%20Image/cracking_the_soft_skills_-_v6-page-001.jpg)
 
-#### Thank you for Visiting, Good Luck 
+#### Thank you for Visiting, Good Luck ! 
