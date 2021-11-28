@@ -1,4 +1,4 @@
-# Solution from Various Online Coding Judge Platform in Python 
+# Interview Preparation Pro
 
 Online coding judge evaluates the algorithmic source code submitted by the platform users and tests it against various test cases, constraints and plagiarism. It hosts Competitive Programming Contests as well. Most of us use various coding platforms for practicing coding to enchance our algorithmic skills and logical aptitude.solution of questions from various such websites will be in present here in python programming language.
 
